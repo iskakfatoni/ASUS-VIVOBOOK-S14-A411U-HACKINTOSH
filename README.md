@@ -1,6 +1,6 @@
 # ASUS VIVOBOOK S14 A411U HACKINTOSH
 
-##Specification
+## Specification
 - CPU : Core i5-8250U
 - RAM : 12Gigs 2400Mhz. ++
 - Audio : Conexant CX8050
@@ -10,7 +10,7 @@
 - Touchpad : ELAN1300
 - Fingerprint : ELAN1300
 - Storage : SSD m2.sata 250gb + SSD sata 250Gb. ++
-##Working status
+## Working status
 - QE/CI Works
 - All USB
 - Fn keys
@@ -20,7 +20,7 @@
 - Sleep
 - Power Management
 
-##Not working status
+## Not working status
 - Default wifi card (QCA9377)
 - Realtek card reader
 - Fingerprint Reader

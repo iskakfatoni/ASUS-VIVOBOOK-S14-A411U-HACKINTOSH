@@ -25,3 +25,5 @@
 - Realtek card reader
 - Fingerprint Reader
 - HDMI!
+
+![Pic](https://github.com/iskakfatoni/ACER-V5-471P-HACKINTOSH-MOJAVE/blob/master/Picture/WhatsApp%20Image%202020-04-24%20at%2005.10.11.jpeg)

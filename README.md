@@ -26,4 +26,4 @@
 - Fingerprint Reader
 - HDMI!
 
-![Pic]https://github.com/iskakfatoni/ASUS-VIVOBOOK-S14-A411U-HACKINTOSH/blob/master/PICS/94393210_10218610783519256_2100572112522575872_o.jpg)
+![Pic](https://github.com/iskakfatoni/ASUS-VIVOBOOK-S14-A411U-HACKINTOSH/blob/master/PICS/94393210_10218610783519256_2100572112522575872_o.jpg)
